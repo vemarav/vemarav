@@ -2,6 +2,6 @@
  # Human vs AI
 <div align="center">
   <a href="https://0eh5np.csb.app/">
-<img width="675" alt="Screenshot 2022-05-18 at 10 37 57 PM" src="https://user-images.githubusercontent.com/17309962/169101796-d16957a3-1829-4d72-8b58-4fdbd4173e43.png">
+<img width="691" alt="Screenshot 2022-05-19 at 7 55 17 AM" src="https://user-images.githubusercontent.com/17309962/169192889-9a01d0ec-1980-4555-8a3d-7f8580f539b1.png">
   </a>
 </div>
